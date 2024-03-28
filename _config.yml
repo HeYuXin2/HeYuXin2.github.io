@@ -2,10 +2,10 @@
 title: 何育鑫
 description: 随便写的个人主页
 url: https://vszhub.github.io
-avatar: /avatar.jpeg
+avatar: /picture.jpg
 paginate: 5
 permalink: pretty
-cover_image: /bg.jpeg
+cover_image: /bg.jpg
 
 # Gems
 plugins:
